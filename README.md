@@ -6,9 +6,9 @@
 
 ### Prep
 
-1. Connect your js file to your HTML file
+1. Connect your `exercise1.js` and `exercise2.js` files to your HTML file
 2. Open your code in the browser and open your console
 
 ### Exerises
 
-1. In the `js` file, follow the prompts for each of the activities.
+1. In the two JavaScript files, follow the prompts for each of the activities.
